@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/prog.dir/cal_main.c.o  -o prog   -L/home/bosco/myproject/prog  -L/home/bosco/myproject/PUBLIC  -L/home/bosco/myproject/.  -Wl,-rpath,/home/bosco/myproject/prog:/home/bosco/myproject/PUBLIC:/home/bosco/myproject/.:/home/bosco/myproject/build libarithmetic.so 

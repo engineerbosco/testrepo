@@ -1,0 +1,4 @@
+/home/bosco/myproject/build/CMakeFiles/rebuild_cache.dir
+/home/bosco/myproject/build/CMakeFiles/edit_cache.dir
+/home/bosco/myproject/build/CMakeFiles/prog.dir
+/home/bosco/myproject/build/CMakeFiles/arithmetic.dir

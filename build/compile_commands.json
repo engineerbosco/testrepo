@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/bosco/myproject/build",
+  "command": "/usr/bin/cc  -I/home/bosco/myproject/inc  -g   -Wall -o CMakeFiles/prog.dir/cal_main.c.o   -c /home/bosco/myproject/cal_main.c",
+  "file": "/home/bosco/myproject/cal_main.c"
+},
+{
+  "directory": "/home/bosco/myproject/build",
+  "command": "/usr/bin/cc -Darithmetic_EXPORTS -I/home/bosco/myproject/inc  -g -fPIC   -Wall -o CMakeFiles/arithmetic.dir/add.c.o   -c /home/bosco/myproject/add.c",
+  "file": "/home/bosco/myproject/add.c"
+},
+{
+  "directory": "/home/bosco/myproject/build",
+  "command": "/usr/bin/cc -Darithmetic_EXPORTS -I/home/bosco/myproject/inc  -g -fPIC   -Wall -o CMakeFiles/arithmetic.dir/sub.c.o   -c /home/bosco/myproject/sub.c",
+  "file": "/home/bosco/myproject/sub.c"
+},
+{
+  "directory": "/home/bosco/myproject/build",
+  "command": "/usr/bin/cc -Darithmetic_EXPORTS -I/home/bosco/myproject/inc  -g -fPIC   -Wall -o CMakeFiles/arithmetic.dir/mul.c.o   -c /home/bosco/myproject/mul.c",
+  "file": "/home/bosco/myproject/mul.c"
+},
+{
+  "directory": "/home/bosco/myproject/build",
+  "command": "/usr/bin/cc -Darithmetic_EXPORTS -I/home/bosco/myproject/inc  -g -fPIC   -Wall -o CMakeFiles/arithmetic.dir/dur.c.o   -c /home/bosco/myproject/dur.c",
+  "file": "/home/bosco/myproject/dur.c"
+}
+]
